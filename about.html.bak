@@ -12,7 +12,7 @@
     <div class="container">
         <div class="navbar">            <!-- mengatur menu--> 
             <div class="logo">          <!-- mengatur logo--> 
-                <a href="index.html">Brick<span>Clothes</span></a>
+                <a href="index.html">Femme<span>Vibe</span></a>
             </div>
             <nav>
                 <ul id="MenuItems">     <!--id js--> 
@@ -59,7 +59,7 @@
                          </div>
                          <div>
                             <span class="fas fa-envelope"></span> 
-                             <span class="text">brickclothes@gmail.com</span>
+                             <span class="text">femmevibe@gmail.com</span>
                          </div>                                                 
                     </div>
                 </div>
